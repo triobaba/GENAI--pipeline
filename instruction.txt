@@ -1,4 +1,4 @@
-create a lambda function from scratch
+created a lambda function from scratch
 
 write the code
 
